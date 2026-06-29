@@ -9,5 +9,5 @@ CS student at **Northwestern** building at the intersection of computer science,
 - 🚀 **I love startups** — I designed, built, and shipped my own iOS app to the App Store.
 - 🏆 **I'm a hackathon regular** — I do my best work on a deadline, with a team, and too much coffee.
 - 🤖 **I build with Claude** as my pair programmer — I ship faster and learn more with it in the loop.
-- 🌱 **I'm currently learning** how to take ML from research into production for bio.
+- 🌱 **I'm currently improving** my full stack development skills.
 - 💬 **Ask me about** shipping iOS apps, surviving hackathons, or computational chemistry.
