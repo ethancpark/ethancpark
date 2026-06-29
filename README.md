@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**ethancpark/ethancpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Ethan 👋
+ 
+CS student at **Northwestern** building at the intersection of computer science, chemistry, and biology — and happiest when I'm shipping something people actually use.
+ 
+### About me
+ 
+- 🔭 **I'm currently working on** [Online Provenance](#) — a platform that helps Native American tribes detect and act on the unauthorized use of their seals and trademarked flags across online marketplaces like Amazon and Temu.
+- 🧪 **I'm interested in** computational chemistry and biology, and using ML to do real work in both.
+- 🚀 **I love startups** — I designed, built, and shipped my own iOS app to the App Store.
+- 🏆 **I'm a hackathon regular** — I do my best work on a deadline, with a team, and too much coffee.
+- 🤖 **I build with Claude** as my pair programmer — I ship faster and learn more with it in the loop.
+- 🌱 **I'm currently learning** how to take ML from research into production for bio.
+- 💬 **Ask me about** shipping iOS apps, surviving hackathons, or computational chemistry.
